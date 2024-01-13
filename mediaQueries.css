@@ -180,6 +180,10 @@
   .text-container {
     text-align: justify;
   }
+  .contact-info-upper-container{
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 

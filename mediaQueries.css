@@ -184,8 +184,21 @@
   #about, #skills, #experience, #projects, #contact {
     padding: 10vh 0 5vh;
   }
+  .section__text{
+    font-size: 1rem;
+  }
+  .title{
+    font-size: 1.5rem;
+  }
   .section__text__p1{
-    padding-top: 10vh;
+    font-size: 0.8rem;
+    padding-top: 5vh;
+  }
+  .section__text__p2{
+    font-size: 0.8rem;
+  }
+  .btn{
+    padding: 0.5rem;
   }
   .section__pic-container {
     width: auto;

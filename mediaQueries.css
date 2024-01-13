@@ -3,7 +3,7 @@
     height: 83vh;
     margin-bottom: 6rem;
   }
-  #about {
+  #about, #skills, #experience, #projects, #contact {
     padding: 17vh 0 5vh;
   }
   .about-containers {
@@ -30,6 +30,10 @@
 }
 
 @media screen and (max-width: 1200px) {
+  #about, #skills, #experience, #projects, #contact {
+    padding: 17vh 0 5vh;
+  }
+  
   #desktop-nav {
     display: none;
   }
@@ -57,6 +61,7 @@
   }
   .experience-details-container {
     width: 100%;
+    margin: 0;
   }
   .section__pic-container {
     margin: 0 auto 0;
@@ -85,6 +90,9 @@
 }
 
 @media screen and (max-width: 700px) {
+  #about, #skills, #experience, #projects, #contact {
+    padding: 13vh 0 5vh;
+  }
   #contact{
     height:80vh
   }
@@ -173,6 +181,9 @@
 
 
 @media screen and (max-width: 450px) {
+  #about, #skills, #experience, #projects, #contact {
+    padding: 10vh 0 5vh;
+  }
   .section__text__p1{
     padding-top: 10vh;
   }

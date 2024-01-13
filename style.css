@@ -390,6 +390,13 @@ section {
   align-self: center;
 }
 
+.skills-sub-title {
+  color: rgb(85, 85, 85);
+  font-weight: 600;
+  font-size: 1.75rem;
+  margin: 2rem 0;
+  align-self: center;
+}
 .experience-details-container {
   display: flex;
   justify-content: center;

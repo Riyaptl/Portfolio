@@ -458,6 +458,10 @@ article .icon {
   text-align: left;
 }
 
+.experience_content p{
+  text-align: justify;
+}
+
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);

@@ -207,4 +207,10 @@
   .details-container{
     padding: 0.75rem
   }
+  .experience_content{
+    padding: 0 0.75rem
+  }
+  .experience-sub-title {
+    margin: 0.8rem 0;;
+  }
 }

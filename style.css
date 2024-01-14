@@ -409,7 +409,7 @@ section {
   width: 100%;
   height: auto;
   height: 30vh;
-  /* border: 1px solid blue; */
+  border: 1px solid blue;
 }
 
 .article-container {

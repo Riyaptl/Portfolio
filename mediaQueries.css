@@ -27,6 +27,10 @@
   #projects {
     height: fit-content;
   }
+  .experience-img{
+    width: 40vw;
+    height: 30vh;
+  } 
 }
 
 @media screen and (max-width: 1200px) {
@@ -87,6 +91,10 @@
     margin: 2rem 0;
     flex-wrap: wrap;
   }
+  .experience-img{
+    width: 50vw;
+    height: 27vh;
+  } 
 }
 
 @media screen and (max-width: 700px) {
@@ -135,7 +143,7 @@
   }
   .experience-img{
     width: 60vw;
-    height: 17vh;
+    height: 24vh;
   }  
   .contact-info-upper-container,
   .btn-container {

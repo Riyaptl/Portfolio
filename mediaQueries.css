@@ -235,6 +235,7 @@
   }
   .experience-img{
     width: 60vw;
+    height: 18vh;
   }  
   .experience-details-container{
     align-items: flex-start;

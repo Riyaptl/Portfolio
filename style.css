@@ -408,6 +408,8 @@ section {
 .experience-img{
   width: 100%;
   height: auto;
+  height: 30vh;
+  /* border: 1px solid blue; */
 }
 
 .article-container {
@@ -446,6 +448,7 @@ article .icon {
   border-radius: 2rem;
   width: 90%;
   height: 90%;
+  border: px solid red;
 }
 
 .project-title {

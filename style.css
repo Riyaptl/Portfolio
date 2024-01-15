@@ -297,6 +297,9 @@ section {
   /* border: 1px solid blue; */
 }
 
+.text-container p{
+  text-align: justify;
+}
 
 .about-details-container {
   justify-content: center;
